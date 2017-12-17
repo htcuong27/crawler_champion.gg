@@ -1,2 +1,8 @@
 # crawler_champion.gg
-crawler web chamion
+Crawler web champion.gg with nodejs
+Use modules:
+- request
+- cheerio
+- fs
+
+
